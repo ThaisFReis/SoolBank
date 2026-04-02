@@ -1,4 +1,5 @@
 .anchor
+.codex
 .DS_Store
 target/
 node_modules/
