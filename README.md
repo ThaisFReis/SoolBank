@@ -6,7 +6,7 @@ Built for Bootcamp Hackathon Global 2026 - Superteam Brazil x NearX, Challenge O
 
 **Program ID (devnet):** `F8cAEWCUNRc62x1aBi9PFjqhijyqjFQuoqVKcYJ1duxm`  
 **Explorer:** <https://explorer.solana.com/address/F8cAEWCUNRc62x1aBi9PFjqhijyqjFQuoqVKcYJ1duxm?cluster=devnet>  
-**Repository:** <https://github.com/ThaisFReis/SoolBank>
+**Repository:** <https://github.com/ThaisFReis/SolBank>
 
 ## TL;DR / On-Chain Proof
 
@@ -175,7 +175,7 @@ Recorded flow date: `2026-04-02`
 ### Install
 
 ```bash
-git clone https://github.com/ThaisFReis/SoolBank
+git clone https://github.com/ThaisFReis/SolBank
 cd SolBank
 yarn install
 ```
