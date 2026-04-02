@@ -1,0 +1,10 @@
+.anchor
+.DS_Store
+target/
+node_modules/
+dist/
+build/
+test-ledger/
+**/*.rs.bk
+/readme-desafio.md
+/neobank-frontend-spec.md
